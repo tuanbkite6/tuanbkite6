@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Huy Tuan</h1>
-<h3 align="center">I am working as software engineer in Seiko Solution Japan  </h3>
+<h3 align="center">I am working as software engineer on Seiko Solution Japan  </h3>
 <img align = "center" alt="Coding" width="1200" src="https://i.redd.it/n8agw6z2smyb1.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuanbkite6&label=Profile%20views&color=0e75b6&style=flat" alt="tuanbkite6" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tuanbkite6" alt="tuanbkite6" /></a> </p>
 
-- 🔭 I’m currently working on **Ascom company**
+- 🔭 I’m currently working on **Seiko Solution Group**
 - 🌱 I’m currently learning backend and cloud technology
 - 📫 How to reach me **huytuankl2001@gmail.com**
 - I'm have JLPT N2 in Japanese
