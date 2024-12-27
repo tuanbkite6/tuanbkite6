@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Huy Tuấn</h1>
-<h3 align="center">I am software engineer</h3>
+<h1 align="center">Hi 👋, I'm Huy Tuan</h1>
+<h3 align="center">I am working as software engineer in Seiko Solution Japan  </h3>
 <img align = "center" alt="Coding" width="1200" src="https://i.redd.it/n8agw6z2smyb1.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuanbkite6&label=Profile%20views&color=0e75b6&style=flat" alt="tuanbkite6" /> </p>
 
